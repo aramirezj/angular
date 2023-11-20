@@ -4,13 +4,13 @@ The logo graphics available for download on this page are provided under [CC BY 
 
 <docs-card-container>
   <docs-card title="Angular logos" href="https://drive.google.com/drive/folders/1IgcAwLDVZUz8ycnFa7T4_H6B4V4LhYUQ?usp=sharing" link="Download from Google Drive">
-    ![Angular workmark gradient logo](./images/press-kit/angular_wordmark_gradient.png)
-    ![Angular workmark white logo](./images/press-kit/angular_wordmark_white.png)
-    ![Angular wordmark black logo](./images/press-kit/angular_wordmark_black.png)
+    ![Angular workmark gradient logo](./images/press-kit/angular_wordmark_gradient.png "Angular workmark gradient logo")
+    ![Angular workmark white logo](./images/press-kit/angular_wordmark_white.png "Angular workmark white logo")
+    ![Angular wordmark black logo](./images/press-kit/angular_wordmark_black.png "Angular wordmark black logo")
     Black and white are the default color variations and should be used in most circumstances. A gradient version of the icon and lockup is available in both static and animated formats and can be used in cases where a color icon is required.
   </docs-card>
   <docs-card title="Brand guidelines" href="https://drive.google.com/drive/folders/1gD5-kamfribnib6TH4-aqVZxjYaDZlCg?usp=drive_link" link="Download from Google Drive">
-    ![Angular animated gradient logo](./images/press-kit/angular_icon_gradient.gif)
+    ![Angular animated gradient logo](./images/press-kit/angular_icon_gradient.gif "Angular animated gradient logo")
     Our brand guidelines folders contain the design files, guidance and community examples for how the brand can be adapted.
     Read more about adapting the logo in the section below.
   </docs-card>
